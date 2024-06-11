@@ -1,0 +1,47 @@
+h1 
+{ 
+    font-size: 96px;
+    margin-bottom: 20px ;
+}
+h2
+{ 
+   font-size: 55px ;
+}
+h3
+{ 
+     font-size: 50px ;
+}   
+h4
+{ 
+
+}
+a 
+{ 
+    text-decoration: none;
+    font-size:  40px ;
+    font-weight:  200 ;
+}
+a , h1 , h2 , h3 , h4 ,p 
+{ 
+    color: white ;
+    font-family: 'Montserrat';
+}
+.btn 
+{ 
+    padding: 30px 45px ;
+    border-radius: 40px ;
+    background: linear-gradient(to bottom , #42679E , #5580C0 ) ;
+    border: none ;  
+    font-family: 'Montserrat';
+    font-size: 48px ;
+    font-weight: 800;
+    color: white ;
+    transition: 400ms ;
+    box-shadow: 0px 4px 28.200000762939453px 10px #00000040;
+
+    
+}
+.btn:hover 
+{ 
+    box-shadow:  0px 0px 72px 19px white;
+}
